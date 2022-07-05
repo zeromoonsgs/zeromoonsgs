@@ -14,7 +14,7 @@
      
 
 
-#### ⚡ acdc0611@google.com 
+#### ⚡ acdc0611@gmail.com 
 
  <br> 
  <br>
