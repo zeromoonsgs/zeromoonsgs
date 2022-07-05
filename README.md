@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=MOON%20HYUNJIN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=MOON%20HYUNJIN&fontSize=70)
 
 
 <div align=center>
