@@ -1,6 +1,7 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=MOON%20HYUNJIN&fontSize=70)
+![image](https://user-images.githubusercontent.com/99775359/177335452-af2900c8-3f57-462f-9b52-34ec6379327f.png)
 
 
 
