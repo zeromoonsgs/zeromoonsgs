@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MOON%20HYUNJIN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=MOON%20HYUNJIN&fontSize=70)
 
 
 <div align=center>
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=Json&logoColor=white"/> 
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> 
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+ 
  
  
  
