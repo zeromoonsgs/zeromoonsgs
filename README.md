@@ -7,7 +7,7 @@
 
 <h1> ✨ HELLO! 👋✨ </h1>
 <h3>안녕하세요! 백엔드 신입 개발자 🌱 문현진 입니다 😄 </h3> 
-#### acdc0611@naver.com 
+
      
       
   
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeromoonsgs&count_bg=%2329475C&title_bg=%234FC7D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-
+#### ⚡ acdc0611@naver.com 
 
 </div>
  
