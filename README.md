@@ -36,15 +36,16 @@ Here are some ideas to get you started:
  
  
  
- <h4>:purple_heart: MOST :purple_heart: </h4>
+
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeromoonsgs&count_bg=%2329475C&title_bg=%234FC7D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  
  
- <h4> :star: STAR :star: </h4>
- 
+ <h4>:purple_heart: MOST :purple_heart: </h4>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromoonsgs&layout=compact)](https://github.com/zeromoonsgs/github-readme-stats)
+<h4> :star: STAR :star: </h4>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeromoonsgs&show_icons=true&theme=dracula)
 
