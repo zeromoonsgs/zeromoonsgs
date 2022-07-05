@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/JAVA-61DAFB?style=flat&logo=JAVA&logoColor=white"/> 
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Json-000000?style=flat&logo=Json&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+
+ ⚡ TECH STACK ⚡
+
+<img src="https://img.shields.io/badge/JAVA-61DAFB?style=flat-square&logo=Java&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/Json-000000?style=flat-square&logo=Json&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 
  
