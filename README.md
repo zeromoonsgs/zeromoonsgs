@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 -->
 
  <h4>⚡ SKILL ⚡</h4>
+  <br>
 
 <img src="https://img.shields.io/badge/JAVA-61DAFB?style=flat-square&logo=Java&logoColor=white"/> 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
@@ -42,18 +43,20 @@ Here are some ideas to get you started:
  
 
  
- <h4>:purple_heart: MOST :purple_heart: </h4>
+ <h3>:purple_heart: MOST :purple_heart: </h3>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromoonsgs&layout=compact)](https://github.com/zeromoonsgs/github-readme-stats)
 
-<h4> :star: STAR :star: </h4>
+<h3> :star: STAR :star: </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeromoonsgs&show_icons=true&theme=dracula)
+ <br>
+   <br> <br>
+   <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeromoonsgs&count_bg=%2329475C&title_bg=%234FC7D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
- <br>
-   <br>
+
 
 </div>
  
