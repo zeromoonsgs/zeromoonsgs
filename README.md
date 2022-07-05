@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=MOON%20HYUNJIN&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MOON%20HYUNJIN&fontSize=90)
 
 
 <div align=center>
-<h1> HELLO! 👋 </h1>
-안녕하세요! 백엔드 신입 개발자 문현진 입니다 😄 
+<h1> HELLO! 👋✨ </h1>
+안녕하세요! 백엔드 신입 개발자 🌱 문현진 입니다 😄 
+
 
 <!--
 **zeromoonsgs/zeromoonsgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
