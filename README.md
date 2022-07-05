@@ -1,5 +1,6 @@
-### Hello! 👋
-안녕하세요. 백엔드 신입 개발자 문현진 입니다.
+ <div align=center>
+## Hello! 👋
+안녕하세요! 백엔드 신입 개발자 문현진 입니다.
 
 <!--
 **zeromoonsgs/zeromoonsgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ⚡ TECH STACK ⚡
+ ⚡ ###SKILL ⚡
 
 <img src="https://img.shields.io/badge/JAVA-61DAFB?style=flat-square&logo=Java&logoColor=white"/> 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
@@ -25,9 +26,13 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> 
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeromoonsgs&count_bg=%23157EB4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeromoonsgs&count_bg=%2329475C&title_bg=%234FC7D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromoonsgs&layout=compact)](https://github.com/zeromoonsgs/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeromoonsgs&show_icons=true&theme=dark)
 
 
+</div>
  
