@@ -7,6 +7,7 @@
 
 <h1> ✨ HELLO! 👋✨ </h1>
 <h3>안녕하세요! 백엔드 신입 개발자 🌱 문현진 입니다 😄 <h3>
+     📫 acdc0611@google.com   
  <br> 
  <br>
 
@@ -54,6 +55,8 @@ Here are some ideas to get you started:
 
 <br>
    <br>
+    <br>
+  
  
  <h3>:purple_heart: MOST :purple_heart: </h3>
   
@@ -61,6 +64,8 @@ Here are some ideas to get you started:
 
  <br>
    <br>
+      <br>
+
  
 <h3> :star: STAR :star: </h3>
 
