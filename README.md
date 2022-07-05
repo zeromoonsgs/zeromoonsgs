@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+안녕하세요. 백엔드 신입 개발자 문현진 입니다.
 
 <!--
 **zeromoonsgs/zeromoonsgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Json-000000?style=flat&logo=Json&logoColor=white"/>
