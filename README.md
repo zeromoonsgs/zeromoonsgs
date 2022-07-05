@@ -7,7 +7,7 @@
 
 <h1> ✨ HELLO! 👋✨ </h1>
 <h3>안녕하세요! 백엔드 신입 개발자 🌱 문현진 입니다 😄 <h3>
-     📫 acdc0611@google.com   
+     📫 acdc0611@naver.com   
  <br> 
  <br>
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <h3> :star: STAR :star: </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeromoonsgs&show_icons=true&theme=dracula)
- <br>
+ 
    <br> <br>
    <br>
 
