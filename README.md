@@ -1,6 +1,6 @@
  <div align=center>
-## Hello! 👋
-안녕하세요! 백엔드 신입 개발자 문현진 입니다.
+<h1>Hello! 👋
+안녕하세요! 백엔드 신입 개발자 문현진 입니다. </h1>
 
 <!--
 **zeromoonsgs/zeromoonsgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ⚡ ###SKILL ⚡
+ <h3>⚡ SKILL ⚡</h3>
 
 <img src="https://img.shields.io/badge/JAVA-61DAFB?style=flat-square&logo=Java&logoColor=white"/> 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
